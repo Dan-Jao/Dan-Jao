@@ -12,9 +12,6 @@
 </div>
 
  
-<div> 
- 
- 
-  ![Snake animation](https://github.com/Dan-Jao/Dan-Jao/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
